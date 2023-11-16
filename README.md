@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Kanban webapp](https://kanban-sasanqc.vercel.app/)
+- Live Site URL: [Kanban webapp](https://kanban-nextjs-app.vercel.app/)
 
 ### Built with
 
